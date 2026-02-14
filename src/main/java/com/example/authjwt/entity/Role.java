@@ -1,0 +1,1 @@
+package com.example.authjwt.entity; public enum Role {USER,ADMIN;}
